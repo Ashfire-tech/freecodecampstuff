@@ -1,0 +1,36 @@
+<nav id="navbar" class="nav">
+  <ul class="nav-list">
+    <li>
+      <a href="#welcome-section">About</a>
+    </li>
+    <li>
+      <a href="#project-tile">Work</a>
+    </li>
+    <li>
+      <a href="#profile-link">Contact</a>
+    </li>
+  </ul>
+</nav>
+</navbar>
+<section id="welcome-section"><h1>Hello, I'm Ashfire_tech</h1></section>
+<section id="projects">
+  <div class="project-tile">
+    <a href="https://codepen.io/ashfire-tech/pen/mdMgoZO"
+      target="_blank">
+      <img
+        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg"
+        alt="biography-project" />
+      <a href="https://codepen.io/ashfire-tech/pen/PoOdMwV"
+      target="_blank">
+      <img
+        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/random-quote-machine.png"
+        alt="comicsurvey-project"/>
+        <a href="https://codepen.io/ashfire-tech/pen/GROajoJ"
+      target="_blank">
+      <img
+        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/calc.png"
+        alt="technical documentation"/>
+        
+  </div>
+</section>
+<a href="https://github.com/Ashfire-tech" target="_blank" id="profile-link">My github</a>
